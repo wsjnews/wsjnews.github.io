@@ -1,0 +1,230 @@
+var bk_results = {
+ "campaigns": [
+  {
+    "campaign": 46162,
+    "CS": "100",
+    "bk_p_id": "661892",
+    "c_p_id": "wsjspotlight",
+    "timestamp": 1532544340,
+    "categories": [
+    {
+     "categoryID": 137957,
+     "timestamp": 1532542628
+    },
+    {
+     "categoryID": 408098,
+     "timestamp": 1532544340
+    }
+    ]
+  },
+  {
+    "campaign": 46296,
+    "pixelid": "6017161185273",
+    "timestamp": 1532544340,
+    "categories": [
+    {
+     "categoryID": 139461,
+     "timestamp": 1532375421
+    },
+    {
+     "categoryID": 408098,
+     "timestamp": 1532544340
+    }
+    ]
+  },
+  {
+    "campaign": 46162,
+    "CS": "100",
+    "bk_p_id": "661892",
+    "c_p_id": "wsjspotlight",
+    "timestamp": 1532544340,
+    "categories": [
+    {
+     "categoryID": 137957,
+     "timestamp": 1532542628
+    },
+    {
+     "categoryID": 408098,
+     "timestamp": 1532544340
+    }
+    ]
+  },
+  {
+    "campaign": 46513,
+    "pixelid": "6017478300673",
+    "timestamp": 1532544340,
+    "categories": [
+    {
+     "categoryID": 139461,
+     "timestamp": 1532375421
+    },
+    {
+     "categoryID": 408098,
+     "timestamp": 1532544340
+    }
+    ]
+  },
+  {
+    "campaign": 53990,
+    "CS": "100",
+    "bk_p_id": "661892",
+    "c_p_id": "barronsonline",
+    "timestamp": 1532544340,
+    "categories": [
+    {
+     "categoryID": 137903,
+     "timestamp": 1531941337
+    },
+    {
+     "categoryID": 408098,
+     "timestamp": 1532544340
+    }
+    ]
+  },
+  {
+    "campaign": 46153,
+    "pixelid": "6016949124273",
+    "timestamp": 1532544340,
+    "categories": [
+    {
+     "categoryID": 139523,
+     "timestamp": 1532544311
+    },
+    {
+     "categoryID": 408098,
+     "timestamp": 1532544340
+    }
+    ]
+  },
+  {
+    "campaign": 122801,
+    "timestamp": 1532544340,
+    "categories": [
+    {
+     "categoryID": 137903,
+     "timestamp": 1531941337
+    },
+    {
+     "categoryID": 137952,
+     "timestamp": 1532544291
+    },
+    {
+     "categoryID": 137957,
+     "timestamp": 1532542628
+    },
+    {
+     "categoryID": 137960,
+     "timestamp": 1532531331
+    },
+    {
+     "categoryID": 137963,
+     "timestamp": 1531335291
+    },
+    {
+     "categoryID": 139523,
+     "timestamp": 1532544311
+    },
+    {
+     "categoryID": 139558,
+     "timestamp": 1532544317
+    },
+    {
+     "categoryID": 139562,
+     "timestamp": 1532358891
+    },
+    {
+     "categoryID": 139963,
+     "timestamp": 1532531196
+    },
+    {
+     "categoryID": 142177,
+     "timestamp": 1532531181
+    },
+    {
+     "categoryID": 142451,
+     "timestamp": 1531941441
+    },
+    {
+     "categoryID": 408098,
+     "timestamp": 1532544340
+    },
+    {
+     "categoryID": 812024,
+     "timestamp": 1532531264
+    }
+    ]
+  },
+  {
+    "campaign": 100540,
+    "cats": "137903|137952|137957|137960|137963|139461|139523|139558|139562|139963|142121|142124|142177|142451|408098|812024",
+    "test": "2",
+    "timestamp": 1532544340,
+    "categories": [
+    {
+     "categoryID": 137903,
+     "timestamp": 1531941337
+    },
+    {
+     "categoryID": 137952,
+     "timestamp": 1532544291
+    },
+    {
+     "categoryID": 137957,
+     "timestamp": 1532542628
+    },
+    {
+     "categoryID": 137960,
+     "timestamp": 1532531331
+    },
+    {
+     "categoryID": 137963,
+     "timestamp": 1531335291
+    },
+    {
+     "categoryID": 139461,
+     "timestamp": 1532375421
+    },
+    {
+     "categoryID": 139523,
+     "timestamp": 1532544311
+    },
+    {
+     "categoryID": 139558,
+     "timestamp": 1532544317
+    },
+    {
+     "categoryID": 139562,
+     "timestamp": 1532358891
+    },
+    {
+     "categoryID": 139963,
+     "timestamp": 1532531196
+    },
+    {
+     "categoryID": 142121,
+     "timestamp": 1532375440
+    },
+    {
+     "categoryID": 142124,
+     "timestamp": 1532375421
+    },
+    {
+     "categoryID": 142177,
+     "timestamp": 1532531181
+    },
+    {
+     "categoryID": 142451,
+     "timestamp": 1531941441
+    },
+    {
+     "categoryID": 408098,
+     "timestamp": 1532544340
+    },
+    {
+     "categoryID": 812024,
+     "timestamp": 1532531264
+    }
+    ]
+  }
+ ]
+};
